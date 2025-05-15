@@ -1,5 +1,3 @@
-Great! Since you've merged your code and placed the screenshots in the `screenshots/` folder, here’s an updated, polished `README.md` for your Pokémon app built with **LynxJS**, **CSS**, and the **PokéAPI**:
-
 ---
 
 ## 🧬 Pokémon Browser App (LynxJS + PokéAPI)
